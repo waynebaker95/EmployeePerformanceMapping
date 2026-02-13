@@ -1,0 +1,1 @@
+'CREATE TABLE `data_science_team` (\n  `EMP_ID` varchar(20),\n  `FIRST_NAME` varchar(40),\n  `LAST_NAME` varchar(40),\n  `GENDER` char(1),\n  `ROLE` varchar(30),\n  `DEPT` varchar(40),\n  `EXP` int DEFAULT NULL,\n  `COUNTRY` varchar(40),\n  `CONTINENT` varchar(30)\n) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci'
